@@ -1,0 +1,2 @@
+﻿Carro;Ferrari Purosangue;2020;2.0E9;null
+Moto;Kawasaki Ninja;2018;2.0E7;null
